@@ -1,0 +1,8 @@
+{
+  "name": "youtube_travis_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CHANist/youtube_travis_tutorial.git",
+  "author": "hphchan <hphchan91@gmail.com>",
+  "license": "MIT"
+}
